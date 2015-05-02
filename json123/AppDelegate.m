@@ -2,9 +2,7 @@
 //  AppDelegate.m
 //  json123
 //
-//  Created by Superton on 2/19/15.
-//  Copyright (c) 2015 Superton. All rights reserved.
-//
+//Auther Souvik Sinhamahapatra
 
 #import "AppDelegate.h"
 
@@ -28,7 +26,7 @@
     // Execute the "checkAndCreateDatabase" function
     Alldataarry=[[NSMutableArray alloc] init];
     [self checkAndCreateDatabase];
-
+  
     return YES;
 }
 
